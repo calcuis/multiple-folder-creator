@@ -1,6 +1,6 @@
 import os
 
-# Read the contents of the file
+# Read the contents of the text file (pre-compiled list)
 with open('test.txt', 'r') as file:
     lines = file.readlines()
 
