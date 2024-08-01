@@ -1,0 +1,6 @@
+apple
+banana
+car
+dog
+egg
+ferry
